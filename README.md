@@ -1,2 +1,2 @@
-# Sort_algorithm
-Sort algorithm including bubble/quick/count/heap/select /etc
+# Data Structure and Algorithm
+study notes of Data Structure, Algorithm, and Application in C++
