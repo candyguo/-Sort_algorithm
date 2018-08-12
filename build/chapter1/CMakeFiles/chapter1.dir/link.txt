@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread -std=c++11 -pthread   CMakeFiles/chapter1.dir/main.cpp.o  -o chapter1 -rdynamic 
